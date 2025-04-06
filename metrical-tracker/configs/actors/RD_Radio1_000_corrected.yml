@@ -1,0 +1,8 @@
+actor: ./input_2nips2024/RD_Radio1_000_corrected
+begin_frames: 1
+keyframes:
+- 0
+- 1
+optimize_jaw: true
+optimize_shape: true
+save_folder: ./output/
